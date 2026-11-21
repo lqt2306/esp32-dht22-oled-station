@@ -2,7 +2,6 @@
 
 Dự án mô phỏng trạm đo nhiệt độ và độ ẩm môi trường sử dụng vi điều khiển ESP32, cảm biến DHT22 và hiển thị trực tiếp lên màn hình OLED SSD1306 (I2C).
 
-![Sơ đồ mạch Wokwi](circuit.png)
 
 ## Linh kiện sử dụng
 * ESP32 DevKit V1
