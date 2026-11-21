@@ -12,7 +12,7 @@ Dự án mô phỏng trạm đo nhiệt độ và độ ẩm môi trường sử
 | Linh kiện | Chân linh kiện | Chân ESP32 |
 | :--- | :--- | :--- |
 | **OLED SSD1306** | VCC / GND | 3V3 / GND |
-| **OLED SSD1306** | SDA / SCL | GPIO 21 (hoặc 19) / GPIO 22 |
+| **OLED SSD1306** | SDA / SCL | GPIO 19 / GPIO 22 |
 | **DHT22** | VCC / GND | 3V3 / GND |
 | **DHT22** | DATA (SDA) | GPIO 15 |
 
